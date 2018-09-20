@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<class>
+<Family id = "1">
+<name>Dinesh</name>
+<age>19</age>
+<sex>male</sex>
+</Family>
+
+<Family id = "2">
+<name>Santhosh</name>
+<age>17</age>
+<sex>male</sex>
+</Family>
+</class>
+
