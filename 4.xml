@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "choose.xsl"?>
+<class>
+<detail id = "1">
+<name>Dinesh</name>
+<age>19</age>
+
+<salary>800</salary>
+</detail>
+<detail id = "2">
+<name>Santhosh</name>
+<age>17</age>
+
+<salary>600</salary>
+</detail>
+<detail id = "3">
+<name>Murugan</name>
+<age>49</age>
+
+<salary>900</salary>
+</detail>
+</class>
